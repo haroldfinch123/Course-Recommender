@@ -1,1 +1,1 @@
-# Course-Recommender Command Line Application using Core Java & Collections
+# Course-Recommender CLI Application using Core Java & Collections
